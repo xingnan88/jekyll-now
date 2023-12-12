@@ -1,3 +1,8 @@
+---
+layout: post
+title: 用 Jenkins 搭建Flutter 自动打包
+---
+
 
 1. 下载安装Jenkins
 https://www.jenkins.io

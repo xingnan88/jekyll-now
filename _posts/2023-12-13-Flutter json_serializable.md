@@ -1,3 +1,7 @@
+---
+layout: post
+title: Flutter json_serializable
+---
 
 **pubspec.yaml**
 ```yaml
